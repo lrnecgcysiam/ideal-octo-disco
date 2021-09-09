@@ -15,7 +15,11 @@ Blogging is a good habit to start and I would tell everyone around me to do so. 
 
 Blogging is great for software development because you can begin to let down the experiences you run into for others to read up about too. 
 
+## Blogging is virtually a free way to share your thoughts online.
+
 Blogging doesn’t take virtually any capital to start you possibly only need a computer with a working internet and access to some of the many blogging sites. I chose  using Eleventy. 11ty is a simpler static site generator that allows you to build website on your computer but push the the code and blog post from your machine without much effort. There are plenty of site generators out there and you don’t have to use this one. I just don’t personally recommend using a platform such as squarespace or WIX. These are great platforms but I don’t want to pay a monthly feee to keep my site up and running. I do however can start using those sites but then later export the site out and run it elsewhere.
+
+## Blogging allows you to build a brand online
 
 Blogging is good for brand building.  Building your brand is not something I do perfect personally. I think it takes practice and it takes persistence. Which is why I recommend using a cheaper approach like this one. I personally would setup sites with flashy animations and heavy boilerplates that you really don’t need. When your strapped for cash and need to make a decision on unsubscribing to a service and not having that exposure of your personal blog it was the way for me to use something cheaper than that but not completely free like social media.
 
@@ -28,14 +32,3 @@ These routes are great to use for getting your site exposed. You start with a si
 Unlike a big, scared corporate marketing department suing college kids over websites that misappropriate a corporate image or phrase , you don’t need to spend too much time guarding your brand against other people .  The person who has the most potential in destroying your image at this level is YOU , YOURSELF and I. 
 
 
-
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-
-// Test with a line break above this line.
-console.log('Test');
-```
