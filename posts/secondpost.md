@@ -50,6 +50,8 @@ Searches of your site in Engines like Google are able to rank higher.
 
 You can put your site together yourself entirely for free or hire a webdeveloper for the price of one month of service from a service like Bluehost or Squarespace. If you wanted to later use these services you COULD. You should never be locked into something just because you paid for months in advance.
 
+# If you would like for me to create another blog post on a tutorial on getting this done just drop a message on my email at lrnecgysiam@gmail.com
+
 
 
 

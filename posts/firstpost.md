@@ -13,6 +13,8 @@ This is not my first blog I created a web portfolio and blogged about different 
 
 Blogging is a good habit to start and I would tell everyone around me to do so. I feel it helps to get your ideas out of your head and place them down so they can be evaluated later. 
 
+<!-- {% image "me_in_the_living_room.jpg", "Photo of a me smiling in my living room" %} -->
+
 Blogging is great for software development because you can begin to let down the experiences you run into for others to read up about too. 
 
 ## Blogging is virtually a free way to share your thoughts online.
