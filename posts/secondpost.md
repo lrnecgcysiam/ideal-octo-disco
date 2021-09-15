@@ -1,0 +1,55 @@
+---
+title: 5 Things you should know before using Wix Squarespace!
+description: Website Builders vs. Hand-Coding
+date: 2021-14-09
+tags:
+  - second post
+layout: layouts/post.njk
+---
+
+
+# So you want to build a website but you don't know how to code?
+
+I know hiring a web developer can be expensive when your trying to get a website up and running but I would like to 
+tell you that building a website from scratch or at least starting a free site generator where you can apply predefined
+styles , templates and even get a domain for your site in minutes.
+
+# Popular Static Site Generators
+
+1. **[Eleventy](https://www.11ty.dev/)**.
+2. **[Jekyll](https://jekyllrb.com/)**.
+3. **[Gatsby](https://www.gatsbyjs.com/)**.
+4. **[Nikola](https://getnikola.com/)**.
+5. **[Hugo](https://gohugo.io/)**.
+
+These are just a few of the ones I have heard of and the top three are the ones I actually used. This is the most easiest 
+way to get a site up and running and looking nice for FREE!.
+
+
+# But what if your not a developer?
+
+If your not a developer you can always read the documents and use youtube videos to get it up and running. It will 
+force you to work in the terminal. (That might scare some of you but it isn't so bad...) I enjoy working with sites like this because it gives me a little more control over my pages.
+You then upload those HTML files to the web, where they are made available as a website to everybody.
+
+# But why do this? There are a number of benefits.
+
+1. Your site is much more secure.
+
+If you was using a CMS like wordpress, WIX or squarespace your site could be prone to attacks since the sites would be heavily using **[Javascript](https://en.wikipedia.org/wiki/JavaScript).
+
+2. Performance.
+
+Your website is written in pure HTML. Your Browsers and most other browsers would be able to load these types up files without much effort. Since there is less code that needs to be resolved by the browser. Your Static site is already in viewable form.
+
+# Is great for SEO.
+
+Searches of your site in Engines like Google are able to rank higher. 
+
+# Did I mention it was free.
+
+You can put your site together yourself entirely for free or hire a webdeveloper for the price of one month of service from a service like Bluehost or Squarespace. If you wanted to later use these services you COULD. You should never be locked into something just because you paid for months in advance.
+
+
+
+
