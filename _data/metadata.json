@@ -2,9 +2,9 @@
   "title": "lrnecgcysiam",
   "url": "http://lrnecgysiam.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "A Personal blog on Web, Personal, and cultural Development",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "A Personal blog on Web, Personal, and cultural Development",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "http://lrnecgysiam.com/"
