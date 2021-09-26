@@ -1,5 +1,5 @@
 ---
-title: 5 ways you can be more effective with learning remotely 
+title: Techniques I find awesome to use while working or studing remotely. 
 description: Learning and working remotely 2021
 date: 2021-18-09
 tags:
