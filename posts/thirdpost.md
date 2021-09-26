@@ -1,0 +1,50 @@
+---
+title: Techniques I find awesome to use while working or studing remotely.  
+description: Learning and working remotely 2021
+date: 2021-18-09
+tags:
+  - third post
+layout: layouts/post.njk
+---
+
+
+# Working Remotely and trying to study or work full time has its perks.👨🏿‍💻🏡
+
+Saving time from a long commute or using the time saved to head to the gym or perhaps work on that blog you always wanted to "find time" to work on. When I first started to work remotely it was a as needed opportunity when I was unable to make it into work at one time. Since I was working as a software developer the job was already online. I spent main hours working through chat applications like ![Slack](#) and other video conferencing tools. Now that Remote work is more mainstream these days. I notice that one of the most challenging task is staying motivate to do more then just the requirement. 
+
+As I also take night classes for my Masters in Computer Science here too I am faced with the challenge of finding the motivation for studying. I think this is a good thing to be worried about though!
+
+On my desk you will see a screen with a pomodoro timer running which keeps me accountable for the time I use for studying. I use a TV Monitor for a second screen and my MacBook Pro as well as a iPad Pro for general -purpose works minus any entertainment. I will break down why I use each one in a moment.
+
+# Apple 10inch iPad Pro 📱
+
+Before I purchased this item I put a lot of thought into why I would need such a tablet. Before my ipad I spent most of my time taking notes on paper and I still take notes on paper but I realized recently how important notetaking is long term.
+Apples iOS and MAC OSX operating systems are much more advance then they were 5-10 years ago. Especially storing documents and using the Apple Pencil for handwritting my notes into a digital document is a plus for me. The Apple iPad is able to read my handwritten notes and I can SEARCH for different notes in the Spotlight Search feature across all my devices.
+
+Before this I used Evernote which I still used but nothing is better than having the feature embedded into the default apps such as Apple Notes.
+
+# Voice Recording with Voice memo 🎙🎛
+
+For all of my classes I record the class lectures in hopes that when it is time to review or go over my notes I have the audio files to listen too with the slides.
+whether this is helpful or not is still not clear but I feel better to have the lecture audio just in case if I am unable to study I can listen to the audio .
+
+
+# Group Chats ( WhatsApp, Discord GroupMe, Google Drive)🏘
+
+I wish I can talk more about this but I think collaboration is key in getting through a class and trying to fully understand a concept. Sometime having a conversation about a particular topic for example how a compiler works for 
+High level programming languages. I would start with listening to peoples videos on youtube and maybe read some blogs as well as doing the regular coursework. 
+Sometimes this leads to new questions and keeps the concepts fresh in my memory between lectures.
+
+Group chats for me are more about getting the work done as quickly as possible. At it is for the ones I have been a part of. So this tip is more like a unicorn 🦄.
+
+
+# Spaced Repetition Software like Anki.
+
+Anki is a simple flash card memorization application which provides an easy way to 
+practice remembering concepts from language vocabulary to medical school terminology. You can create all your flashcards from scratch or you can download shared flashcards that are available on Anki's website https://ankiweb.net/
+Spaced Repetition is a popular method for practicing  what you learned in hopes to see the improvement. You can use Anki for free online or pay a lifetime fee of 35 dollars so you can use the application on your mobile device.  (highly recommended).
+
+
+# Remote life is here to stay.
+
+I really am excited about remote work and school it opens doors for you to try new things and save the planet. Driving to work or school is one of the biggest reasons we have congestion on the freeway where I live and sinc ethe pandemic the roads are not as bad as they were. As long as I have a stable internet connection I can work anywhere.
